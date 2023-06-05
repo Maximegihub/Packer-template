@@ -1,7 +1,7 @@
 packer {
   required_plugins {
     proxmox = {
-      version = ">= 1.1.2"                     # Version du plugin utilisé# 
+      version = ">= 2.7.5""                     # Version du plugin utilisé# 
       source  = "github.com/hashicorp/proxmox"    #Plugins permettant de faire le lien entre notre script et l'api qui va déployer notre ressources#
     }
   }
