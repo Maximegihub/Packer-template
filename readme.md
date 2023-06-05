@@ -1,3 +1,4 @@
-Script Packer Installation d'une template sur un serveur distant ( dans notre cas Proxmox)
-Installation et configuration de Git
-Configuration du SSH (user et clé)
+Script Packer déploiement et configuration d'une template sur un serveur dist
+
+  -Installation et configuration de Git
+  -Configuration du SSH (user et clé)
